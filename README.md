@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/-GITHUB-white?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=%23181717)
 ![Static Badge](https://img.shields.io/badge/-FIREBASE-white?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black&color=%23DD2C00)
 
-## <img src="https://github.com/user-attachments/assets/f178c9f3-80a1-4acf-9441-ee2e61165632" width="20"> Contact me:
+## <img src="https://github.com/user-attachments/assets/f178c9f3-80a1-4acf-9441-ee2e61165632" width="20"> Contact me at:
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-ISAAC%20HERNANDEZ%20GONZALEZ-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=%230A66C2)](https://www.linkedin.com/in/isaac-hernandez-gonzalez-b22664231/)
 
 <!--
